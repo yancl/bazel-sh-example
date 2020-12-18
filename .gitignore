@@ -1,0 +1,4 @@
+bazel-bazel-override-test
+bazel-bin
+bazel-out
+bazel-testlogs
